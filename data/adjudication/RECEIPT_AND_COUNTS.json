@@ -1,0 +1,113 @@
+{
+  "status": "received_decisions_integrated_as_separate_layer",
+  "source_sha256": "e73eefb030f50c2a77f76a8971d9ebac2c025b3e47875cf212d95fd5f8a4bde3",
+  "events": 20,
+  "counted_events": 7,
+  "noncounted_wording_events": 9,
+  "rejected_flags": 3,
+  "unresolved": 1,
+  "counted_responses": 7,
+  "counted_distinct_questions": 6,
+  "original_rater_flag_instances": 26,
+  "post_adjudication_adjusted_form_instances": 25,
+  "original_rater_returns_preserved": true,
+  "forms_diff": [
+    {
+      "rater": "A",
+      "original_return_error_count": 2,
+      "post_adjudication_form_error_count": 1,
+      "sha256": "23397e1f461ca1ae5de482fc3649bb3162947858f0b1a3677a2b8e65ee6799f0"
+    },
+    {
+      "rater": "B",
+      "original_return_error_count": 1,
+      "post_adjudication_form_error_count": 1,
+      "sha256": "7e1c56cce3d3c75e5d2fa4f70a70c0fd0e006799f0e1d9fb1900368fb2170bba"
+    }
+  ],
+  "signature_images": [
+    [
+      9,
+      1
+    ],
+    [
+      9,
+      2
+    ]
+  ],
+  "signature_scope": "Source workbook records review/signing and contains embedded images. Codex checks their presence/anchors, not cryptographic authenticity or identity.",
+  "comparisons": [
+    {
+      "scenario": "confirmed_only",
+      "language": "Overall",
+      "question_pairs": 20,
+      "CG_positive_responses": 0,
+      "DS_positive_responses": 7,
+      "CG_positive_questions": 0,
+      "DS_positive_questions": 6,
+      "CG_only_discordant": 0,
+      "DS_only_discordant": 6,
+      "exact_p_unadjusted": 0.03125
+    },
+    {
+      "scenario": "confirmed_only",
+      "language": "EN",
+      "question_pairs": 20,
+      "CG_positive_responses": 0,
+      "DS_positive_responses": 3,
+      "CG_positive_questions": 0,
+      "DS_positive_questions": 3,
+      "CG_only_discordant": 0,
+      "DS_only_discordant": 3,
+      "exact_p_unadjusted": 0.25
+    },
+    {
+      "scenario": "confirmed_only",
+      "language": "ZH",
+      "question_pairs": 20,
+      "CG_positive_responses": 0,
+      "DS_positive_responses": 4,
+      "CG_positive_questions": 0,
+      "DS_positive_questions": 4,
+      "CG_only_discordant": 0,
+      "DS_only_discordant": 4,
+      "exact_p_unadjusted": 0.125
+    },
+    {
+      "scenario": "unresolved_positive_sensitivity",
+      "language": "Overall",
+      "question_pairs": 20,
+      "CG_positive_responses": 0,
+      "DS_positive_responses": 8,
+      "CG_positive_questions": 0,
+      "DS_positive_questions": 6,
+      "CG_only_discordant": 0,
+      "DS_only_discordant": 6,
+      "exact_p_unadjusted": 0.03125
+    },
+    {
+      "scenario": "unresolved_positive_sensitivity",
+      "language": "EN",
+      "question_pairs": 20,
+      "CG_positive_responses": 0,
+      "DS_positive_responses": 3,
+      "CG_positive_questions": 0,
+      "DS_positive_questions": 3,
+      "CG_only_discordant": 0,
+      "DS_only_discordant": 3,
+      "exact_p_unadjusted": 0.25
+    },
+    {
+      "scenario": "unresolved_positive_sensitivity",
+      "language": "ZH",
+      "question_pairs": 20,
+      "CG_positive_responses": 0,
+      "DS_positive_responses": 5,
+      "CG_positive_questions": 0,
+      "DS_positive_questions": 5,
+      "CG_only_discordant": 0,
+      "DS_only_discordant": 5,
+      "exact_p_unadjusted": 0.0625
+    }
+  ]
+}

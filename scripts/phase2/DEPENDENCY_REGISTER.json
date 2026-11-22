@@ -1,0 +1,42 @@
+[
+  {
+    "script": "complete_phase2_tables.py",
+    "uses_original_absolute_paths": true,
+    "status": "historical orchestration; preserve original source dependencies; read before running"
+  },
+  {
+    "script": "integrate_R207_adjudication.py",
+    "uses_original_absolute_paths": true,
+    "status": "historical orchestration; preserve original source dependencies; read before running"
+  },
+  {
+    "script": "merge_validated_ARC.py",
+    "uses_original_absolute_paths": false,
+    "status": "historical orchestration; preserve original source dependencies; read before running"
+  },
+  {
+    "script": "prepare_text_metrics.py",
+    "uses_original_absolute_paths": true,
+    "status": "historical orchestration; preserve original source dependencies; read before running"
+  },
+  {
+    "script": "recompute_phase2_core.py",
+    "uses_original_absolute_paths": true,
+    "status": "historical orchestration; preserve original source dependencies; read before running"
+  },
+  {
+    "script": "render_figure2_corrected.py",
+    "uses_original_absolute_paths": false,
+    "status": "historical orchestration; preserve original source dependencies; read before running"
+  },
+  {
+    "script": "render_figure2_v2.py",
+    "uses_original_absolute_paths": false,
+    "status": "historical orchestration; preserve original source dependencies; read before running"
+  },
+  {
+    "script": "stage_R207.py",
+    "uses_original_absolute_paths": false,
+    "status": "historical orchestration; preserve original source dependencies; read before running"
+  }
+]

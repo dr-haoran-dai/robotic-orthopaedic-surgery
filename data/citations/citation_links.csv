@@ -1,0 +1,475 @@
+﻿r_id,model,lang,question,session,anchor,url,url_class,ident,in_table
+R105,ChatGPT,ZH,1,1,随机对照试验,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R105,ChatGPT,ZH,1,1,多中心随机对照试验,https://pubmed.ncbi.nlm.nih.gov/39135273/,pubmed,39135273,0
+R230,ChatGPT,ZH,1,2,随机对照试验,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R230,ChatGPT,ZH,1,2,长期随机对照研究,https://pubmed.ncbi.nlm.nih.gov/31389889/,pubmed,31389889,0
+R230,ChatGPT,ZH,1,2,机器人系统临床研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC9288055/,pmc,9288055,0
+R102,ChatGPT,ZH,1,3,多中心随机试验,https://pmc.ncbi.nlm.nih.gov/articles/PMC11541113/,pmc,11541113,0
+R102,ChatGPT,ZH,1,3,胸腰椎置钉随机试验,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R102,ChatGPT,ZH,1,3,膝关节置换随机试验,https://pmc.ncbi.nlm.nih.gov/articles/PMC11541113/,pmc,11541113,0
+R102,ChatGPT,ZH,1,3,脊柱机器人随机试验,https://pubmed.ncbi.nlm.nih.gov/31908936/,pubmed,31908936,0
+R178,ChatGPT,ZH,2,1,胸腰椎机器人置钉指南,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R178,ChatGPT,ZH,2,1,AO 骨盆导航固定技术参考,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/pelvic-ring/sacrum/mio-iliosacral-screw-navigation,ao,,0
+R178,ChatGPT,ZH,2,1,脊柱机器人手术技术文献,https://pmc.ncbi.nlm.nih.gov/articles/PMC7478327/,pmc,7478327,0
+R110,ChatGPT,ZH,2,2,胸腰椎置钉指南,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R110,ChatGPT,ZH,2,2,骨盆髋臼应用指导,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,0
+R110,ChatGPT,ZH,2,2,指南原文,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R110,ChatGPT,ZH,2,2,骨盆环损伤临床研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC6430472/,pmc,6430472,0
+R233,ChatGPT,ZH,2,3,AO骨盆导航操作原则,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/pelvic-ring/sacrum/mio-iliosacral-screw-navigation,ao,,0
+R233,ChatGPT,ZH,2,3,脊柱骨折导航应用,https://pubmed.ncbi.nlm.nih.gov/36441223/,pubmed,36441223,0
+R233,ChatGPT,ZH,2,3,机器人辅助寰枢椎固定指南,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594511/,pmc,6594511,0
+R233,ChatGPT,ZH,2,3,骨盆髋臼机器人辅助固定指导,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,0
+R233,ChatGPT,ZH,2,3,FDA设备注册资料示例,https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213873.pdf,fda,,0
+R053,ChatGPT,ZH,3,1,脊柱机器人临床操作研究,https://jss.amegroups.org/article/view/5317/html,journal-site,,0
+R053,ChatGPT,ZH,3,1,关节机器人尸体研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC6825049/,pmc,6825049,0
+R053,ChatGPT,ZH,3,1,原始研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC6825049/,pmc,6825049,0
+R053,ChatGPT,ZH,3,1,原始临床研究,https://doi.org/10.1097/MD.0000000000005835,doi,10.1097/MD.0000000000005835,0
+R219,ChatGPT,ZH,3,2,颈椎置钉尸体研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC10556891/,pmc,10556891,0
+R219,ChatGPT,ZH,3,2,临床技术研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC8261565/,pmc,8261565,0
+R219,ChatGPT,ZH,3,2,实验研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11458697/,pmc,11458697,0
+R074,ChatGPT,ZH,3,3,厂家技术资料,https://www.stryker.com/content/dam/stryker/education-and-training/joint-replacement/fellows-summit/2023-oct/files/mako/Mako%20Total%20Knee%202.0%20overview%20deck.pdf,manufacturer,,0
+R074,ChatGPT,ZH,3,3,协作式骨钻实验研究,https://pubmed.ncbi.nlm.nih.gov/42104087/,pubmed,42104087,0
+R074,ChatGPT,ZH,3,3,动物实验,https://pmc.ncbi.nlm.nih.gov/articles/PMC4851934/,pmc,4851934,0
+R183,ChatGPT,ZH,4,1,原始研究,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ans.17975,journal-site,,0
+R183,ChatGPT,ZH,4,1,原始研究,https://www.mdpi.com/2077-0383/13/23/7253,journal-site,,0
+R183,ChatGPT,ZH,4,1,前瞻性研究,https://pubmed.ncbi.nlm.nih.gov/36355082/,pubmed,36355082,0
+R183,ChatGPT,ZH,4,1,流程学习曲线研究,https://pubmed.ncbi.nlm.nih.gov/37358731/,pubmed,37358731,0
+R160,ChatGPT,ZH,4,2,原始研究,https://www.orthopedicsri.com/wp-content/uploads/2022/03/TimeBasedLearningCurveAMulticenterStudy.pdf,other,,1
+R160,ChatGPT,ZH,4,2,原始研究,https://www.mdpi.com/2077-0383/13/23/7253,journal-site,,1
+R160,ChatGPT,ZH,4,2,原始研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11572081/,pmc,11572081,1
+R160,ChatGPT,ZH,4,2,原始研究,https://pubmed.ncbi.nlm.nih.gov/37358731/,pubmed,37358731,0
+R108,ChatGPT,ZH,4,3,膝关节分步骤耗时研究,https://www.mdpi.com/2077-0383/13/23/7253,journal-site,,0
+R108,ChatGPT,ZH,4,3,脊柱机器人学习曲线研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11572081/,pmc,11572081,0
+R108,ChatGPT,ZH,4,3,护理团队学习曲线研究,https://pubmed.ncbi.nlm.nih.gov/38466746/,pubmed,38466746,0
+R081,ChatGPT,ZH,5,1,胸腰椎机器人置钉指南,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R045,ChatGPT,ZH,5,2,厂家使用手册,https://www.zimmerbiomet.com/content/dam/zb-corporate/en/products/specialties/robotics/3312.7-GLBL-en%20ROSA%20Partial%20Knee%20User%20Manual%20V1.2-DIGITAL.pdf,manufacturer,,0
+R045,ChatGPT,ZH,5,2,英国骨科协会标准,https://www.boa.ac.uk/resource/diagnosis-and-management-of-arterial-injuries-associated-with-musculoskeletal-trauma.html,guideline,,0
+R007,ChatGPT,ZH,5,3,AO 颈椎手术并发症处理参考,https://surgeryreference.aofoundation.org/spine/trauma/subaxial-cervical/further-reading/surgical-compliations,ao,,0
+R099,ChatGPT,ZH,6,1,国家手术分级管理规定,https://app.www.gov.cn/govdata/gov/202212/20/495431/article.html,regulatory,,0
+R099,ChatGPT,ZH,6,1,主动式机器人研究,https://pubmed.ncbi.nlm.nih.gov/33611607/,pubmed,33611607,0
+R099,ChatGPT,ZH,6,1,脊柱机器人学习曲线研究,https://www.mdpi.com/2673-4095/5/4/72,journal-site,,0
+R149,ChatGPT,ZH,6,2,《医疗技术临床应用管理办法》,https://www.nhc.gov.cn/wjw/c100221/202201/7fd3c31ef929472aa57794cbc49c3f0f.shtml,guideline,,0
+R149,ChatGPT,ZH,6,2,《医疗机构手术分级管理办法》,https://www.nhc.gov.cn/yzygj/c100068/202212/d929c6f9b0684585a4821fa60d2a8166.shtml,guideline,,0
+R149,ChatGPT,ZH,6,2,相关指南,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R149,ChatGPT,ZH,6,2,膝关节研究,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ans.17975,journal-site,,0
+R149,ChatGPT,ZH,6,2,脊柱研究,https://pubmed.ncbi.nlm.nih.gov/31281174/,pubmed,31281174,0
+R092,ChatGPT,ZH,6,3,国家卫生健康委规定,https://www.nhc.gov.cn/yzygj/c100068/202212/d929c6f9b0684585a4821fa60d2a8166.shtml,guideline,,0
+R092,ChatGPT,ZH,6,3,《医疗技术临床应用管理办法》,https://www.nhc.gov.cn/wjw/c100221/202201/7fd3c31ef929472aa57794cbc49c3f0f.shtml,guideline,,0
+R092,ChatGPT,ZH,6,3,7例研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC6435632/,pmc,6435632,0
+R092,ChatGPT,ZH,6,3,20例研究,https://doi.org/10.1186/s13018-023-03899-y,doi,10.1186/s13018-023-03899-y,0
+R092,ChatGPT,ZH,6,3,原始研究,https://pubmed.ncbi.nlm.nih.gov/37358731/,pubmed,37358731,0
+R222,ChatGPT,ZH,7,1,长期随机对照研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438149/,pmc,7438149,0
+R222,ChatGPT,ZH,7,1,长期比较研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC9880514/,pmc,9880514,0
+R222,ChatGPT,ZH,7,1,研究及局限,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438149/,pmc,7438149,0
+R222,ChatGPT,ZH,7,1,多中心研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC8990386/,pmc,8990386,0
+R222,ChatGPT,ZH,7,1,多中心随机试验,https://pubmed.ncbi.nlm.nih.gov/42370806/,pubmed,42370806,0
+R013,ChatGPT,ZH,7,2,长期对照研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC9880514/,pmc,9880514,0
+R013,ChatGPT,ZH,7,2,5年随机试验,https://pmc.ncbi.nlm.nih.gov/articles/PMC8153511/,pmc,8153511,0
+R013,ChatGPT,ZH,7,2,10年随访研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11021903/,pmc,11021903,0
+R013,ChatGPT,ZH,7,2,髋关节置换随机试验,https://pubmed.ncbi.nlm.nih.gov/38926175/,pubmed,38926175,0
+R013,ChatGPT,ZH,7,2,骨盆后环骨折研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC6595115/,pmc,6595115,0
+R013,ChatGPT,ZH,7,2,不稳定骨盆骨折研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC6175104/,pmc,6175104,0
+R147,ChatGPT,ZH,7,3,10年以上随访研究,https://pubmed.ncbi.nlm.nih.gov/30456542/,pubmed,30456542,0
+R147,ChatGPT,ZH,7,3,13年随机对照研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438149/,pmc,7438149,0
+R147,ChatGPT,ZH,7,3,单髁置换10年随访,https://pmc.ncbi.nlm.nih.gov/articles/PMC11021903/,pmc,11021903,0
+R147,ChatGPT,ZH,7,3,螺钉松动对照研究,https://www.mdpi.com/2077-0383/11/17/4989,journal-site,,0
+R147,ChatGPT,ZH,7,3,研究原文,https://pmc.ncbi.nlm.nih.gov/articles/PMC8990386/,pmc,8990386,0
+R147,ChatGPT,ZH,7,3,股骨颈骨折研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC7862148/,pmc,7862148,0
+R106,ChatGPT,ZH,8,1,全膝关节置换成本效果研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC9704609/,pmc,9704609,0
+R106,ChatGPT,ZH,8,1,五年经济评价,https://pmc.ncbi.nlm.nih.gov/articles/PMC10665097/,pmc,10665097,0
+R100,ChatGPT,ZH,8,2,成本研究,https://pubmed.ncbi.nlm.nih.gov/38717705/,pubmed,38717705,0
+R100,ChatGPT,ZH,8,2,英国经济评价,https://pmc.ncbi.nlm.nih.gov/articles/PMC12143939/,pmc,12143939,0
+R100,ChatGPT,ZH,8,2,病例量敏感性分析,https://pubmed.ncbi.nlm.nih.gov/36441807/,pubmed,36441807,0
+R135,ChatGPT,ZH,8,3,成本效益模型研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC9704609/,pmc,9704609,0
+R132,ChatGPT,ZH,9,1,颈椎尸体研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC10556891/,pmc,10556891,0
+R132,ChatGPT,ZH,9,1,技术研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC10863943/,pmc,10863943,0
+R132,ChatGPT,ZH,9,1,病例系列,https://pmc.ncbi.nlm.nih.gov/articles/PMC7347701/,pmc,7347701,0
+R071,ChatGPT,ZH,9,2,相关操作指导,https://pmc.ncbi.nlm.nih.gov/articles/PMC6595112/,pmc,6595112,0
+R071,ChatGPT,ZH,9,2,临床研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC8752688/,pmc,8752688,0
+R159,ChatGPT,ZH,9,3,厂家手术技术指南,https://www.strykermeded.com/media/2042/mako-tha-surgical-technique.pdf,manufacturer,,0
+R157,ChatGPT,ZH,10,1,胸腰椎随机试验,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R157,ChatGPT,ZH,10,1,颈椎对照研究,https://pubmed.ncbi.nlm.nih.gov/32975454/,pubmed,32975454,0
+R157,ChatGPT,ZH,10,1,小型随机试验,https://pmc.ncbi.nlm.nih.gov/articles/PMC6939109/,pmc,6939109,0
+R157,ChatGPT,ZH,10,1,两年随访随机试验,https://pubmed.ncbi.nlm.nih.gov/29611407/,pubmed,29611407,0
+R157,ChatGPT,ZH,10,1,风险因素研究,https://pubmed.ncbi.nlm.nih.gov/35000338/,pubmed,35000338,0
+R204,ChatGPT,ZH,10,2,随机对照试验,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R204,ChatGPT,ZH,10,2,另一项随机试验,https://pubmed.ncbi.nlm.nih.gov/27672000/,pubmed,27672000,0
+R210,ChatGPT,ZH,10,3,随机对照试验,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R210,ChatGPT,ZH,10,3,自动规划验证研究,https://pubmed.ncbi.nlm.nih.gov/37048730/,pubmed,37048730,0
+R122,ChatGPT,ZH,11,1,随机试验原文摘要,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R122,ChatGPT,ZH,11,1,腰椎翻修对照研究,https://pubmed.ncbi.nlm.nih.gov/32989559/,pubmed,32989559,0
+R134,ChatGPT,ZH,11,2,随机对照试验,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R134,ChatGPT,ZH,11,2,腰椎翻修比较研究,https://pubmed.ncbi.nlm.nih.gov/32989559/,pubmed,32989559,0
+R014,ChatGPT,ZH,11,3,随机对照试验,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R014,ChatGPT,ZH,11,3,侧弯比较研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11289529/,pmc,11289529,0
+R014,ChatGPT,ZH,11,3,腰椎翻修比较研究,https://pubmed.ncbi.nlm.nih.gov/32989559/,pubmed,32989559,0
+R091,ChatGPT,ZH,12,1,随机试验,https://pubmed.ncbi.nlm.nih.gov/29067950/,pubmed,29067950,0
+R091,ChatGPT,ZH,12,1,对照研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC9876857/,pmc,9876857,0
+R091,ChatGPT,ZH,12,1,AO 骨盆导航置钉技术参考,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/pelvic-ring/sacrum/mio-iliosacral-screw-navigation,ao,,0
+R088,ChatGPT,ZH,12,2,S2螺钉对照研究,https://pubmed.ncbi.nlm.nih.gov/34904387/,pubmed,34904387,0
+R088,ChatGPT,ZH,12,2,随机对照试验,https://pubmed.ncbi.nlm.nih.gov/29067950/,pubmed,29067950,0
+R088,ChatGPT,ZH,12,2,AO骨盆导航操作原则,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/pelvic-ring/sacrum/mio-iliosacral-screw-navigation,ao,,0
+R154,ChatGPT,ZH,12,3,比较研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC6595115/,pmc,6595115,0
+R154,ChatGPT,ZH,12,3,试验结果,https://pubmed.ncbi.nlm.nih.gov/29067950/,pubmed,29067950,0
+R154,ChatGPT,ZH,12,3,研究纳排标准,https://pmc.ncbi.nlm.nih.gov/articles/PMC6595115/,pmc,6595115,0
+R002,ChatGPT,ZH,13,1,重度内外翻对照研究,https://pubmed.ncbi.nlm.nih.gov/38267884/,pubmed,38267884,0
+R002,ChatGPT,ZH,13,1,屈曲挛缩研究,https://pubmed.ncbi.nlm.nih.gov/40686054/,pubmed,40686054,0
+R002,ChatGPT,ZH,13,1,髋关节发育不良研究,https://pubmed.ncbi.nlm.nih.gov/38358516/,pubmed,38358516,0
+R002,ChatGPT,ZH,13,1,内植物存留病例报告,https://pmc.ncbi.nlm.nih.gov/articles/PMC8842451/,pmc,8842451,0
+R002,ChatGPT,ZH,13,1,骨性融合髋研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC9681582/,pmc,9681582,0
+R097,ChatGPT,ZH,13,2,重度畸形对照研究,https://pubmed.ncbi.nlm.nih.gov/38267884/,pubmed,38267884,0
+R097,ChatGPT,ZH,13,2,屈曲挛缩研究,https://pubmed.ncbi.nlm.nih.gov/40686054/,pubmed,40686054,0
+R097,ChatGPT,ZH,13,2,内植物存留病例报告,https://pubmed.ncbi.nlm.nih.gov/35223003/,pubmed,35223003,0
+R097,ChatGPT,ZH,13,2,DDH临床研究,https://pubmed.ncbi.nlm.nih.gov/38358516/,pubmed,38358516,0
+R097,ChatGPT,ZH,13,2,强直髋病例系列,https://pmc.ncbi.nlm.nih.gov/articles/PMC9245539/,pmc,9245539,0
+R121,ChatGPT,ZH,13,3,屈曲挛缩研究,https://pubmed.ncbi.nlm.nih.gov/40686054/,pubmed,40686054,0
+R121,ChatGPT,ZH,13,3,髋发育不良比较研究,https://pubmed.ncbi.nlm.nih.gov/38358516/,pubmed,38358516,0
+R121,ChatGPT,ZH,13,3,病例报告,https://pubmed.ncbi.nlm.nih.gov/35223003/,pubmed,35223003,0
+R121,ChatGPT,ZH,13,3,强直膝病例,https://pubmed.ncbi.nlm.nih.gov/39663132/,pubmed,39663132,0
+R187,ChatGPT,ZH,14,1,胸腰椎机器人置钉指南,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R187,ChatGPT,ZH,14,1,风险因素研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC8752688/,pmc,8752688,0
+R187,ChatGPT,ZH,14,1,腰椎翻修比较研究,https://pubmed.ncbi.nlm.nih.gov/32989559/,pubmed,32989559,0
+R116,ChatGPT,ZH,14,2,置钉指导文件,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R116,ChatGPT,ZH,14,2,翻修应用研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC9808791/,pmc,9808791,0
+R116,ChatGPT,ZH,14,2,滑脱研究,https://thejns.org/downloadpdf/journals/neurosurg-focus/42/5/article-pE12.pdf,journal-site,,0
+R216,ChatGPT,ZH,14,3,胸腰椎机器人置钉指南,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R216,ChatGPT,ZH,14,3,滑脱研究,https://thejns.org/downloadpdf/journals/neurosurg-focus/42/5/article-pE12.pdf,journal-site,,0
+R216,ChatGPT,ZH,14,3,机器人置钉技术文献,https://pmc.ncbi.nlm.nih.gov/articles/PMC7478327/,pmc,7478327,0
+R216,ChatGPT,ZH,14,3,腰椎翻修对照研究,https://pubmed.ncbi.nlm.nih.gov/32989559/,pubmed,32989559,0
+R148,ChatGPT,ZH,15,1,骨盆髋臼指导,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,0
+R148,ChatGPT,ZH,15,1,股骨颈骨折指导,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/os.12451,journal-site,,0
+R148,ChatGPT,ZH,15,1,WSES骨盆创伤指南,https://pmc.ncbi.nlm.nih.gov/articles/PMC5241998/,pmc,5241998,0
+R148,ChatGPT,ZH,15,1,技术限制与禁忌说明,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,0
+R032,ChatGPT,ZH,15,2,骨盆髋臼机器人技术指导,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,0
+R032,ChatGPT,ZH,15,2,股骨颈骨折对照研究,https://pubmed.ncbi.nlm.nih.gov/29786276/,pubmed,29786276,0
+R032,ChatGPT,ZH,15,2,技术指导中的适应证与禁忌证,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,0
+R066,ChatGPT,ZH,15,3,国家药监局相关产品说明,https://english.nmpa.gov.cn/2023-12/11/c_964062.htm,regulatory,,0
+R066,ChatGPT,ZH,15,3,股骨颈应用指导,https://onlinelibrary.wiley.com/doi/10.1111/os.12451,journal-site,,0
+R066,ChatGPT,ZH,15,3,骨盆髋臼应用指导,https://pmc.ncbi.nlm.nih.gov/articles/PMC6595112/,pmc,6595112,0
+R066,ChatGPT,ZH,15,3,骨盆环临床研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC6430472/,pmc,6430472,0
+R070,ChatGPT,ZH,16,1,CNS骨质疏松术前评估指南,https://www.cns.org/guidelines/browse-guidelines-detail/preoperative-osteoporosis-assessment,guideline,,0
+R070,ChatGPT,ZH,16,1,WFNS建议,https://wfns-spine.org/osteoporotic-vertebral-fractures-recommendations,guideline,,0
+R070,ChatGPT,ZH,16,1,随机试验,https://pubmed.ncbi.nlm.nih.gov/29724590/,pubmed,29724590,0
+R070,ChatGPT,ZH,16,1,AAOS指南,https://www.aaos.org/quality/quality-programs/hip-fractures-in-older-adults/,guideline,,0
+R070,ChatGPT,ZH,16,1,DGOU骨质疏松椎体骨折建议,https://pmc.ncbi.nlm.nih.gov/articles/PMC6130106/,pmc,6130106,0
+R191,ChatGPT,ZH,16,2,CNS骨质疏松术前评估指南,https://www.cns.org/guidelines/browse-guidelines-detail/preoperative-osteoporosis-assessment,guideline,,0
+R191,ChatGPT,ZH,16,2,机器人置钉技术文献,https://pmc.ncbi.nlm.nih.gov/articles/PMC7478327/,pmc,7478327,0
+R191,ChatGPT,ZH,16,2,骨质疏松性椎体骨折建议,https://pmc.ncbi.nlm.nih.gov/articles/PMC6130106/,pmc,6130106,0
+R191,ChatGPT,ZH,16,2,AO转子间骨折固定技术参考,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-femur/trochanteric-fracture-intertrochanteric/nailing-short-nail,ao,,0
+R191,ChatGPT,ZH,16,2,NICE髋部骨折指南,https://www.nice.org.uk/guidance/cg124/chapter/recommendations,guideline,,0
+R191,ChatGPT,ZH,16,2,DGOU建议,https://pmc.ncbi.nlm.nih.gov/articles/PMC6130106/,pmc,6130106,0
+R191,ChatGPT,ZH,16,2,AO强化螺钉临床资料,https://media.aofoundation.org/innovations/-/media/project/aocd/innovations/files/ao_itc_innovations_2023_lowres.pdf?rev=a13c09eb320d40058e5fc3dd1c1e8456,ao,,0
+R016,ChatGPT,ZH,16,3,AO技术指导,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-femur/further-reading/complications-and-technical-failures-trochanteric-fractures,ao,,0
+R016,ChatGPT,ZH,16,3,CNS骨健康评估指南,https://www.cns.org/guidelines/browse-guidelines-detail/preoperative-osteoporosis-assessment,guideline,,0
+R016,ChatGPT,ZH,16,3,AO指导,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-femur/trochanteric-fracture-simple-pertrochanteric-two-part/nailing,ao,,1
+R016,ChatGPT,ZH,16,3,DGOU建议,https://pmc.ncbi.nlm.nih.gov/articles/PMC6130106/,pmc,6130106,1
+R016,ChatGPT,ZH,16,3,前瞻性渗漏研究,https://pubmed.ncbi.nlm.nih.gov/26943258/,pubmed,26943258,0
+R040,ChatGPT,ZH,17,1,全髋学习曲线研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11067002/,pmc,11067002,0
+R040,ChatGPT,ZH,17,1,亚太关节机器人专家共识,https://pmc.ncbi.nlm.nih.gov/articles/PMC13471573/,pmc,13471573,0
+R040,ChatGPT,ZH,17,1,亚太专家共识,https://pmc.ncbi.nlm.nih.gov/articles/PMC13471573/,pmc,13471573,0
+R172,ChatGPT,ZH,17,2,膝置换20例研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC10258979/,pmc,10258979,0
+R172,ChatGPT,ZH,17,2,膝置换约40例研究,https://pubmed.ncbi.nlm.nih.gov/41943084/,pubmed,41943084,0
+R172,ChatGPT,ZH,17,2,髋置换12例研究,https://pubmed.ncbi.nlm.nih.gov/31838874/,pubmed,31838874,0
+R172,ChatGPT,ZH,17,2,新技术引入培训原则,https://www.sages.org/publications/guidelines/guidelines-introduction-new-technology-techniques/,guideline,,0
+R098,ChatGPT,ZH,17,3,7例研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC6435632/,pmc,6435632,0
+R098,ChatGPT,ZH,17,3,16例研究,https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ans.17975,journal-site,,0
+R098,ChatGPT,ZH,17,3,七轴系统研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11061987/,pmc,11061987,0
+R098,ChatGPT,ZH,17,3,不同手术量术者的研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11067002/,pmc,11067002,0
+R098,ChatGPT,ZH,17,3,亚太专家共识,https://pmc.ncbi.nlm.nih.gov/articles/PMC13471573/,pmc,13471573,0
+R128,ChatGPT,ZH,18,1,膝关节登记研究,https://www.bmj.com/content/394/bmj-2026-100691,journal-site,,0
+R128,ChatGPT,ZH,18,1,髋关节登记研究,https://pubmed.ncbi.nlm.nih.gov/42815970/,pubmed,42815970,0
+R128,ChatGPT,ZH,18,1,AJRR全膝研究,https://doi.org/10.1097/CORR.0000000000002783,doi,10.1097/CORR.0000000000002783,0
+R128,ChatGPT,ZH,18,1,AJRR全髋研究,https://pubmed.ncbi.nlm.nih.gov/42233625/,pubmed,42233625,0
+R128,ChatGPT,ZH,18,1,长期随机试验,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438149/,pmc,7438149,0
+R128,ChatGPT,ZH,18,1,5年随机试验,https://pmc.ncbi.nlm.nih.gov/articles/PMC8153511/,pmc,8153511,0
+R128,ChatGPT,ZH,18,1,3年对照研究,https://pubmed.ncbi.nlm.nih.gov/42521886/,pubmed,42521886,0
+R031,ChatGPT,ZH,18,2,全膝与单髁NJR研究,https://pubmed.ncbi.nlm.nih.gov/42815981/,pubmed,42815981,0
+R031,ChatGPT,ZH,18,2,全髋NJR研究,https://pubmed.ncbi.nlm.nih.gov/42815970/,pubmed,42815970,0
+R031,ChatGPT,ZH,18,2,长期随机试验,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438149/,pmc,7438149,0
+R031,ChatGPT,ZH,18,2,RACER-Knee试验,https://www.sciencedirect.com/science/article/pii/S0140673626009864,journal-site,,0
+R031,ChatGPT,ZH,18,2,长期全膝试验,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438149/,pmc,7438149,0
+R031,ChatGPT,ZH,18,2,全髋NJR研究分析,https://www.bmj.com/content/394/bmj-2026-100709,journal-site,,0
+R238,ChatGPT,ZH,18,3,膝关节登记研究,https://www.bmj.com/content/394/bmj-2026-100691,journal-site,,0
+R238,ChatGPT,ZH,18,3,髋关节登记研究,https://pubmed.ncbi.nlm.nih.gov/42815970/,pubmed,42815970,0
+R238,ChatGPT,ZH,18,3,全髋登记研究,https://pubmed.ncbi.nlm.nih.gov/42815970/,pubmed,42815970,0
+R238,ChatGPT,ZH,18,3,长期随机研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438149/,pmc,7438149,0
+R238,ChatGPT,ZH,18,3,RACER-Knee试验,https://pubmed.ncbi.nlm.nih.gov/42624811/,pubmed,42624811,0
+R238,ChatGPT,ZH,18,3,单髁5年试验,https://pubmed.ncbi.nlm.nih.gov/34058870/,pubmed,34058870,0
+R205,ChatGPT,ZH,19,1,随机对照研究,https://pubmed.ncbi.nlm.nih.gov/24732833/,pubmed,24732833,0
+R205,ChatGPT,ZH,19,1,IAEA防护建议,https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1775_web.pdf,regulatory,,0
+R205,ChatGPT,ZH,19,1,ICRP职业防护建议,https://journals.sagepub.com/doi/10.1177/0146645317750356,journal-site,,0
+R205,ChatGPT,ZH,19,1,《放射工作人员职业健康管理办法》,https://www.nhc.gov.cn/fzs/c100048/201808/f03b64fbb0484708b0d92177708de095.shtml,guideline,,0
+R024,ChatGPT,ZH,19,2,脊柱CT导航研究,https://pubmed.ncbi.nlm.nih.gov/26686604/,pubmed,26686604,0
+R024,ChatGPT,ZH,19,2,OSHA防护说明,https://www.osha.gov/ionizing-radiation/control-prevention,regulatory,,0
+R024,ChatGPT,ZH,19,2,国家核安全局监测说明,https://nnsa.mee.gov.cn/ztzl/haqshmhsh/haqrdmyyt/202411/202411/t20241120_1095751.html,regulatory,,0
+R024,ChatGPT,ZH,19,2,职业健康管理办法,https://www.nhc.gov.cn/fzs/c100048/200706/788114e70d5e4b078dccdbe14855e2cf.shtml,guideline,,0
+R024,ChatGPT,ZH,19,2,GBZ 98—2020,https://www.nhc.gov.cn/cms-search/downFiles/9c0c4af0e6704c56aa56ede4bb1a7b14.pdf,guideline,,0
+R185,ChatGPT,ZH,19,3,随机试验,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R185,ChatGPT,ZH,19,3,CT导航研究,https://pubmed.ncbi.nlm.nih.gov/26686604/,pubmed,26686604,0
+R185,ChatGPT,ZH,19,3,IAEA工作人员防护建议,https://www.iaea.org/sites/default/files/documents/rpop/poster-staff-radiation-protection.pdf,regulatory,,0
+R185,ChatGPT,ZH,19,3,个人监测要求,https://www.nhc.gov.cn/zwgk/wlwl/200804/69aa46cc0bd142d9beb025a857f90775.shtml,guideline,,0
+R185,ChatGPT,ZH,19,3,国家核安全局监测说明,https://nnsa.mee.gov.cn/ztzl/haqshmhsh/haqrdmyyt/202411/202411/t20241120_1095751.html,regulatory,,0
+R185,ChatGPT,ZH,19,3,职业健康管理要求,https://www.nhc.gov.cn/zwgk/wlwl/200804/69aa46cc0bd142d9beb025a857f90775.shtml,guideline,,0
+R141,ChatGPT,ZH,20,1,预算影响研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC13136191/,pmc,13136191,0
+R141,ChatGPT,ZH,20,1,匹配队列研究,https://pubmed.ncbi.nlm.nih.gov/36732310/,pubmed,36732310,0
+R141,ChatGPT,ZH,20,1,导航与机器人经济模型,https://pubmed.ncbi.nlm.nih.gov/41399946/,pubmed,41399946,0
+R232,ChatGPT,ZH,20,2,新加坡手术室效率研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11677293/,pmc,11677293,0
+R113,ChatGPT,ZH,20,3,匹配成本研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC9722569/,pmc,9722569,0
+R113,ChatGPT,ZH,20,3,预算影响模型,https://pmc.ncbi.nlm.nih.gov/articles/PMC13136191/,pmc,13136191,0
+R113,ChatGPT,ZH,20,3,手术室效率研究,https://pmc.ncbi.nlm.nih.gov/articles/PMC11677293/,pmc,11677293,0
+R083,ChatGPT,EN,1,1,AAOS,https://www.orthoinfo.org/treatment/robotic-assisted-joint-replacement?utm_source=chatgpt.com,guideline,,0
+R083,ChatGPT,EN,1,1,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/37796307/?utm_source=chatgpt.com,pubmed,,0
+R083,ChatGPT,EN,1,1,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/30738398/?utm_source=chatgpt.com,pubmed,,0
+R083,ChatGPT,EN,1,1,AAOS,https://www.orthoinfo.org/treatment/robotic-assisted-joint-replacement?utm_source=chatgpt.com,guideline,,0
+R083,ChatGPT,EN,1,1,PubMed,https://pubmed.ncbi.nlm.nih.gov/40458231/?utm_source=chatgpt.com,pubmed,,0
+R083,ChatGPT,EN,1,1,aaos.org,https://www.aaos.org/smoak2cpg?utm_source=chatgpt.com,guideline,,0
+R212,ChatGPT,EN,1,2,AAOS,https://www.orthoinfo.org/treatment/robotic-assisted-joint-replacement?utm_source=chatgpt.com,guideline,,1
+R212,ChatGPT,EN,1,2,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC11541113/?utm_source=chatgpt.com,pmc,11541113,1
+R212,ChatGPT,EN,1,2,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC10167526/?utm_source=chatgpt.com,pmc,10167526,1
+R212,ChatGPT,EN,1,2,PubMed,https://pubmed.ncbi.nlm.nih.gov/30738398/?utm_source=chatgpt.com,pubmed,,1
+R212,ChatGPT,EN,1,2,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC12109240/?utm_source=chatgpt.com,pmc,12109240,0
+R212,ChatGPT,EN,1,2,PubMed,https://pubmed.ncbi.nlm.nih.gov/30738398/?utm_source=chatgpt.com,pubmed,,0
+R212,ChatGPT,EN,1,2,aaos.org,https://www.aaos.org/smoak2cpg?utm_source=chatgpt.com,guideline,,0
+R101,ChatGPT,EN,1,3,AAOS,https://www.orthoinfo.org/treatment/robotic-assisted-joint-replacement?utm_source=chatgpt.com,guideline,,0
+R101,ChatGPT,EN,1,3,AAOS,https://www.orthoinfo.org/treatment/robotic-assisted-joint-replacement?utm_source=chatgpt.com,guideline,,0
+R101,ChatGPT,EN,1,3,AAOS,https://www.orthoinfo.org/treatment/robotic-assisted-joint-replacement?utm_source=chatgpt.com,guideline,,0
+R101,ChatGPT,EN,1,3,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/30738398/?utm_source=chatgpt.com,pubmed,,0
+R101,ChatGPT,EN,1,3,PubMed,https://pubmed.ncbi.nlm.nih.gov/24747631/?utm_source=chatgpt.com,pubmed,,0
+R171,ChatGPT,EN,2,1,AAOS,https://www.orthoinfo.org/treatment/robotic-assisted-joint-replacement?utm_source=chatgpt.com,guideline,,0
+R171,ChatGPT,EN,2,1,media.aofoundation.org,https://media.aofoundation.org/spine/-/media/project/aocd/aospine/documents/aos_injury_classification_systems_poster_thoracolumbar.pdf?rev%253D128e2974749a4d68a3db41613f1a4efa=&utm_source=chatgpt.com,ao,,0
+R171,ChatGPT,EN,2,1,frontiersin.org,https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1744048/full?utm_source=chatgpt.com,journal-site,,0
+R171,ChatGPT,EN,2,1,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/40458231/?utm_source=chatgpt.com,pubmed,,0
+R171,ChatGPT,EN,2,1,clinicaltrials.gov,https://clinicaltrials.gov/ProvidedDocs/12/NCT02155712/Prot_SAP_ICF_000.pdf?utm_source=chatgpt.com,registry,NCT02155712,0
+R171,ChatGPT,EN,2,1,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/?utm_source=chatgpt.com,pmc,6594520,0
+R171,ChatGPT,EN,2,1,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC12999134/?utm_source=chatgpt.com,pmc,12999134,0
+R131,ChatGPT,EN,2,2,Wiley Online Library,https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/acr.25175?utm_source=chatgpt.com,journal-site,,0
+R131,ChatGPT,EN,2,2,media.aofoundation.org,https://media.aofoundation.org/spine/-/media/project/aocd/aospine/documents/aos_injury_classification_systems_poster_thoracolumbar.pdf?rev%253D128e2974749a4d68a3db41613f1a4efa=&utm_source=chatgpt.com,ao,,0
+R131,ChatGPT,EN,2,2,strykermeded.com,https://www.strykermeded.com/media/2042/mako-tha-surgical-technique.pdf?utm_source=chatgpt.com,manufacturer,,0
+R010,ChatGPT,EN,2,3,NICE,https://www.nice.org.uk/guidance/htg743/chapter/1-Recommendations,guideline,,0
+R010,ChatGPT,EN,2,3,NICE,https://www.nice.org.uk/guidance/NG226/chapter/recommendations,guideline,,0
+R010,ChatGPT,EN,2,3,surgeryreference.aofoundation.org,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/pelvic-ring/basic-technique/iliosacral-screw-for-si-joint?utm_source=chatgpt.com,ao,,0
+R010,ChatGPT,EN,2,3,Stryker,https://d2ywvrgmgnteiv.cloudfront.net/knee-replacement/options/mako-robotic-arm-assisted-total-knee?utm_source=chatgpt.com,other,,0
+R010,ChatGPT,EN,2,3,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/?utm_source=chatgpt.com,pmc,6594520,0
+R010,ChatGPT,EN,2,3,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC7478327/?utm_source=chatgpt.com,pmc,7478327,0
+R151,ChatGPT,EN,3,1,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC11458697/?utm_source=chatgpt.com,pmc,11458697,0
+R151,ChatGPT,EN,3,1,PubMed,https://pubmed.ncbi.nlm.nih.gov/32002750/?utm_source=chatgpt.com,pubmed,,0
+R151,ChatGPT,EN,3,1,Clinical Biomechanics,https://doi.org/10.1016/j.clinbiomech.2024.106374?utm_source=chatgpt.com,doi,10.1016/j.clinbiomech.2024.106374,0
+R151,ChatGPT,EN,3,1,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC12156144/?utm_source=chatgpt.com,pmc,12156144,0
+R037,ChatGPT,EN,3,2,Stryker,https://d2ywvrgmgnteiv.cloudfront.net/knee-replacement/options/mako-robotic-arm-assisted-total-knee?utm_source=chatgpt.com,other,,0
+R037,ChatGPT,EN,3,2,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC12960614/?utm_source=chatgpt.com,pmc,12960614,1
+R037,ChatGPT,EN,3,2,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC5279084/?utm_source=chatgpt.com,pmc,5279084,1
+R037,ChatGPT,EN,3,2,Springer Nature Link,https://link.springer.com/article/10.1007/s00464-024-11131-z?utm_source=chatgpt.com,journal-site,,1
+R037,ChatGPT,EN,3,2,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/28803514/?utm_source=chatgpt.com,pubmed,,0
+R020,ChatGPT,EN,3,3,stryker.com,https://www.stryker.com/us/en/joint-replacement/test/the-role-of-haptics-in-robotic-arm-assisted-tka1.html?utm_source=chatgpt.com,manufacturer,,0
+R020,ChatGPT,EN,3,3,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC12960614/?utm_source=chatgpt.com,pmc,12960614,0
+R020,ChatGPT,EN,3,3,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/31675680/?utm_source=chatgpt.com,pubmed,,0
+R020,ChatGPT,EN,3,3,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC12156144/?utm_source=chatgpt.com,pmc,12156144,0
+R020,ChatGPT,EN,3,3,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC11458697/?utm_source=chatgpt.com,pmc,11458697,0
+R119,ChatGPT,EN,4,1,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC11641829/?utm_source=chatgpt.com,pmc,11641829,1
+R119,ChatGPT,EN,4,1,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC9804534/?utm_source=chatgpt.com,pmc,9804534,1
+R119,ChatGPT,EN,4,1,mdpi.com,https://www.mdpi.com/2673-4095/5/4/72?utm_source=chatgpt.com,journal-site,,1
+R119,ChatGPT,EN,4,1,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC9804534/?utm_source=chatgpt.com,pmc,9804534,0
+R087,ChatGPT,EN,4,2,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC11641829/?utm_source=chatgpt.com,pmc,11641829,0
+R087,ChatGPT,EN,4,2,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC11641829/?utm_source=chatgpt.com,pmc,11641829,0
+R087,ChatGPT,EN,4,2,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/36398352/?utm_source=chatgpt.com,pubmed,,0
+R112,ChatGPT,EN,4,3,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC11641829/?utm_source=chatgpt.com,pmc,11641829,0
+R112,ChatGPT,EN,4,3,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/36398352/?utm_source=chatgpt.com,pubmed,,0
+R112,ChatGPT,EN,4,3,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC11641829/?utm_source=chatgpt.com,pmc,11641829,0
+R112,ChatGPT,EN,4,3,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC11641829/?utm_source=chatgpt.com,pmc,11641829,0
+R003,ChatGPT,EN,5,1,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC12999134/?utm_source=chatgpt.com,pmc,12999134,0
+R003,ChatGPT,EN,5,1,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC10964898/?utm_source=chatgpt.com,pmc,10964898,0
+R003,ChatGPT,EN,5,1,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC10066544/?utm_source=chatgpt.com,pmc,10066544,0
+R208,ChatGPT,EN,5,2,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC12578586/?utm_source=chatgpt.com,pmc,12578586,1
+R208,ChatGPT,EN,5,2,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC10964898/?utm_source=chatgpt.com,pmc,10964898,1
+R208,ChatGPT,EN,5,2,Springer Nature Link,https://link.springer.com/article/10.1007/s11701-026-04102-0?utm_source=chatgpt.com,journal-site,,0
+R208,ChatGPT,EN,5,2,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC10066544/?utm_source=chatgpt.com,pmc,10066544,0
+R208,ChatGPT,EN,5,2,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC10964898/?utm_source=chatgpt.com,pmc,10964898,0
+R206,ChatGPT,EN,5,3,boa.ac.uk,https://www.boa.ac.uk/standards-guidance/guidance/guidance-documents/robotics-in-orthopaedics.html?utm_source=chatgpt.com,guideline,,0
+R206,ChatGPT,EN,5,3,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/22975723/?utm_source=chatgpt.com,pubmed,,0
+R206,ChatGPT,EN,5,3,NICE,https://www.nice.org.uk/guidance/htg743/chapter/2-The-technologies,guideline,,0
+R206,ChatGPT,EN,5,3,aorn.org,https://www.aorn.org/docs/default-source/aorndocuments/toolkits/robotic/robotic-surgery-emergency-checklists.pdf?sfvrsn=a9c463bc_0&utm_source=chatgpt.com,guideline,,0
+R206,ChatGPT,EN,5,3,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC10964898/?utm_source=chatgpt.com,pmc,10964898,0
+R206,ChatGPT,EN,5,3,aorn.org,https://www.aorn.org/docs/default-source/aorndocuments/toolkits/robotic/robotic-surgery-emergency-checklists.pdf?sfvrsn=a9c463bc_0&utm_source=chatgpt.com,guideline,,0
+R072,ChatGPT,EN,6,1,FDA,https://www.fda.gov/medical-devices/surgery-devices/computer-assisted-surgical-systems?utm_source=chatgpt.com,fda,,0
+R072,ChatGPT,EN,6,1,Amsterdam Skills Centre,https://asc.amsterdam/courses/stryker-mako-system-certification/?utm_source=chatgpt.com,manufacturer,,0
+R072,ChatGPT,EN,6,1,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC9804534/?utm_source=chatgpt.com,pmc,9804534,1
+R072,ChatGPT,EN,6,1,PubMed,https://pubmed.ncbi.nlm.nih.gov/31838874/?utm_source=chatgpt.com,pubmed,,1
+R072,ChatGPT,EN,6,1,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/37358731/?utm_source=chatgpt.com,pubmed,,1
+R072,ChatGPT,EN,6,1,PubMed,https://pubmed.ncbi.nlm.nih.gov/33214434/?utm_source=chatgpt.com,pubmed,,0
+R072,ChatGPT,EN,6,1,FDA,https://www.fda.gov/medical-devices/surgery-devices/computer-assisted-surgical-systems?utm_source=chatgpt.com,fda,,0
+R127,ChatGPT,EN,6,2,ACS,https://www.facs.org/about-acs/statements/credentialing-and-privileging-and-volume-performance-issues/?utm_source=chatgpt.com,guideline,,0
+R127,ChatGPT,EN,6,2,stryker.com,https://www.stryker.com/us/en/training-and-education/orthopaedics/joint-replacement/a-commitment-to-surgeon-education.html?utm_source=chatgpt.com,manufacturer,,0
+R127,ChatGPT,EN,6,2,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/36398352/?utm_source=chatgpt.com,pubmed,,0
+R127,ChatGPT,EN,6,2,PubMed,https://pubmed.ncbi.nlm.nih.gov/33214434/?utm_source=chatgpt.com,pubmed,,0
+R125,ChatGPT,EN,6,3,aaos.org,https://www.aaos.org/globalassets/about/position-statements/1106-delineation-of-clinical-privileges-in-orthopaedic-surgery.pdf?utm_source=chatgpt.com,guideline,,0
+R125,ChatGPT,EN,6,3,aaos.org,https://www.aaos.org/globalassets/about/position-statements/1106-delineation-of-clinical-privileges-in-orthopaedic-surgery.pdf?utm_source=chatgpt.com,guideline,,0
+R125,ChatGPT,EN,6,3,boa.ac.uk,https://www.boa.ac.uk/asset/352926C4-3101-4411-9E4B109026E86740/?utm_source=chatgpt.com,guideline,,0
+R125,ChatGPT,EN,6,3,link.springer.com,https://link.springer.com/article/10.1007/s00167-018-5138-5?utm_source=chatgpt.com,journal-site,,0
+R125,ChatGPT,EN,6,3,link.springer.com,https://link.springer.com/article/10.1007/s00167-018-5138-5?utm_source=chatgpt.com,journal-site,,0
+R125,ChatGPT,EN,6,3,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/32377839/?utm_source=chatgpt.com,pubmed,,0
+R104,ChatGPT,EN,7,1,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/31389889/?utm_source=chatgpt.com,pubmed,,1
+R104,ChatGPT,EN,7,1,PubMed,https://pubmed.ncbi.nlm.nih.gov/40583450/?utm_source=chatgpt.com,pubmed,,1
+R104,ChatGPT,EN,7,1,PubMed,https://pubmed.ncbi.nlm.nih.gov/37146125/?utm_source=chatgpt.com,pubmed,,1
+R104,ChatGPT,EN,7,1,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC6260005/?utm_source=chatgpt.com,pmc,6260005,1
+R104,ChatGPT,EN,7,1,PubMed,https://pubmed.ncbi.nlm.nih.gov/36078918/?utm_source=chatgpt.com,pubmed,,1
+R104,ChatGPT,EN,7,1,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC7862148/?utm_source=chatgpt.com,pmc,7862148,0
+R104,ChatGPT,EN,7,1,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/41564951/?utm_source=chatgpt.com,pubmed,,0
+R162,ChatGPT,EN,7,2,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/31389889/?utm_source=chatgpt.com,pubmed,,1
+R162,ChatGPT,EN,7,2,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/40139479/?utm_source=chatgpt.com,pubmed,,1
+R162,ChatGPT,EN,7,2,PubMed,https://pubmed.ncbi.nlm.nih.gov/37146125/?utm_source=chatgpt.com,pubmed,,1
+R162,ChatGPT,EN,7,2,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC6260005/?utm_source=chatgpt.com,pmc,6260005,1
+R162,ChatGPT,EN,7,2,PubMed,https://pubmed.ncbi.nlm.nih.gov/36078918/?utm_source=chatgpt.com,pubmed,,1
+R162,ChatGPT,EN,7,2,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/33448703/?utm_source=chatgpt.com,pubmed,,1
+R162,ChatGPT,EN,7,2,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/42370806/?utm_source=chatgpt.com,pubmed,,0
+R192,ChatGPT,EN,7,3,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/31389889/?utm_source=chatgpt.com,pubmed,,0
+R192,ChatGPT,EN,7,3,The BMJ,https://www.bmj.com/content/394/bmj-2026-100691?utm_source=chatgpt.com,journal-site,,0
+R192,ChatGPT,EN,7,3,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC5889997/?utm_source=chatgpt.com,pmc,5889997,0
+R192,ChatGPT,EN,7,3,pmc.ncbi.nlm.nih.gov,https://pmc.ncbi.nlm.nih.gov/articles/PMC7862148/?utm_source=chatgpt.com,pmc,7862148,0
+R192,ChatGPT,EN,7,3,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/42370806/?utm_source=chatgpt.com,pubmed,,0
+R201,ChatGPT,EN,8,1,NICE,https://www.nice.org.uk/guidance/htg743/chapter/1-Recommendations,guideline,,0
+R201,ChatGPT,EN,8,1,NICE,https://www.nice.org.uk/guidance/htg743/chapter/3-Committee-discussion,guideline,,0
+R201,ChatGPT,EN,8,1,NICE,https://www.nice.org.uk/guidance/htg743/resources/resource-impact-summary-report-15306577741/chapter/Resource-impact-summary-report,guideline,,0
+R201,ChatGPT,EN,8,1,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/40480644/?utm_source=chatgpt.com,pubmed,,0
+R237,ChatGPT,EN,8,2,NICE,https://www.nice.org.uk/guidance/htg743/chapter/1-Recommendations,guideline,,0
+R237,ChatGPT,EN,8,2,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/36441807/?utm_source=chatgpt.com,pubmed,,0
+R237,ChatGPT,EN,8,2,PubMed,https://pubmed.ncbi.nlm.nih.gov/39740684/?utm_source=chatgpt.com,pubmed,,0
+R123,ChatGPT,EN,8,3,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/41881427/?utm_source=chatgpt.com,pubmed,,0
+R123,ChatGPT,EN,8,3,PMC,https://pmc.ncbi.nlm.nih.gov/articles/PMC13385105/?utm_source=chatgpt.com,pmc,13385105,0
+R123,ChatGPT,EN,8,3,pubmed.ncbi.nlm.nih.gov,https://pubmed.ncbi.nlm.nih.gov/36441807/?utm_source=chatgpt.com,pubmed,,0
+R123,ChatGPT,EN,8,3,PubMed,https://pubmed.ncbi.nlm.nih.gov/35040808/?utm_source=chatgpt.com,pubmed,,0
+R120,ChatGPT,EN,9,1,Clinical report,https://pmc.ncbi.nlm.nih.gov/articles/PMC13193221/,pmc,13193221,0
+R120,ChatGPT,EN,9,1,Manufacturer workflow guide,https://www.stryker.com/content/dam/stryker/no-index/training-and-education/jr45/season-3/may/resources/Mako%20Total%20Hip%20Express%20workflow%20guide%20-%20Direct%20Anterior%20Approach.pdf,manufacturer,,0
+R080,ChatGPT,EN,9,2,Stryker surgical workflow guide,https://www.stryker.com/content/dam/stryker/no-index/training-and-education/jr45/season-3/may/resources/Mako%20Total%20Hip%20Express%20workflow%20guide%20-%20Direct%20Anterior%20Approach.pdf,manufacturer,,0
+R065,ChatGPT,EN,9,3,Hip robotic-system research,https://arxiv.org/abs/2206.10351,preprint,2206.10351,0
+R065,ChatGPT,EN,9,3,Surgical technique,https://pmc.ncbi.nlm.nih.gov/articles/PMC11918557/,pmc,11918557,0
+R065,ChatGPT,EN,9,3,Cadaveric cervical-spine study,https://journals.sagepub.com/doi/10.1177/21925682211068410,journal-site,,0
+R156,ChatGPT,EN,10,1,Randomized clinical trial,https://pmc.ncbi.nlm.nih.gov/articles/PMC13105505/,pmc,13105505,0
+R156,ChatGPT,EN,10,1,Cervical pedicle-screw study,https://journals.sagepub.com/doi/10.1177/21925682211068410,journal-site,,0
+R026,ChatGPT,EN,10,2,Randomized clinical trial,https://pubmed.ncbi.nlm.nih.gov/41417955/,pubmed,41417955,0
+R026,ChatGPT,EN,10,2,Comparative study,https://pubmed.ncbi.nlm.nih.gov/42696038/,pubmed,42696038,0
+R026,ChatGPT,EN,10,2,Clinical series,https://link.springer.com/content/pdf/10.1007/s11701-025-02931-z.pdf,journal-site,,0
+R176,ChatGPT,EN,10,3,Comparative clinical study,https://www.nature.com/articles/s41598-025-12549-8,journal-site,,0
+R176,ChatGPT,EN,10,3,Clinical series,https://link.springer.com/content/pdf/10.1007/s11701-025-02931-z.pdf,journal-site,,0
+R084,ChatGPT,EN,11,1,Randomized trial,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R084,ChatGPT,EN,11,1,retrospective comparison,https://pmc.ncbi.nlm.nih.gov/articles/PMC9288055/,pmc,9288055,0
+R084,ChatGPT,EN,11,1,Earlier randomized trial,https://pubmed.ncbi.nlm.nih.gov/22310097/,pubmed,22310097,0
+R084,ChatGPT,EN,11,1,Prospective study,https://pmc.ncbi.nlm.nih.gov/articles/PMC11538820/,pmc,11538820,0
+R084,ChatGPT,EN,11,1,Revision-surgery study,https://pubmed.ncbi.nlm.nih.gov/32989559/,pubmed,32989559,0
+R030,ChatGPT,EN,11,2,Randomized trial,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R030,ChatGPT,EN,11,2,retrospective comparison,https://pubmed.ncbi.nlm.nih.gov/28463623/,pubmed,28463623,0
+R030,ChatGPT,EN,11,2,Scoliosis study,https://pubmed.ncbi.nlm.nih.gov/37273031/,pubmed,37273031,0
+R030,ChatGPT,EN,11,2,Revision study,https://pubmed.ncbi.nlm.nih.gov/32989559/,pubmed,32989559,0
+R115,ChatGPT,EN,11,3,Randomized trial,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R115,ChatGPT,EN,11,3,Scoliosis comparative study,https://pmc.ncbi.nlm.nih.gov/articles/PMC11289529/,pmc,11289529,0
+R115,ChatGPT,EN,11,3,Lumbar revision study,https://pubmed.ncbi.nlm.nih.gov/32989559/,pubmed,32989559,0
+R051,ChatGPT,EN,12,1,Randomized trial,https://pubmed.ncbi.nlm.nih.gov/29067950/,pubmed,29067950,0
+R051,ChatGPT,EN,12,1,Comparative study,https://pubmed.ncbi.nlm.nih.gov/33317816/,pubmed,33317816,0
+R051,ChatGPT,EN,12,1,Recent comparative study,https://pubmed.ncbi.nlm.nih.gov/41548407/,pubmed,41548407,0
+R236,ChatGPT,EN,12,2,"randomized trial—30 patients, 45 screws",https://pubmed.ncbi.nlm.nih.gov/29067950/,pubmed,29067950,0
+R236,ChatGPT,EN,12,2,comparative S2 fixation study,https://pmc.ncbi.nlm.nih.gov/articles/PMC8867425/,pmc,8867425,0
+R150,ChatGPT,EN,12,3,prospective randomized sacroiliac screw trial,https://pmc.ncbi.nlm.nih.gov/articles/PMC5678249/,pmc,5678249,0
+R150,ChatGPT,EN,12,3,S2 fixation study,https://pubmed.ncbi.nlm.nih.gov/34904387/,pubmed,34904387,0
+R220,ChatGPT,EN,13,1,Comparative study,https://pubmed.ncbi.nlm.nih.gov/38267884/,pubmed,38267884,1
+R220,ChatGPT,EN,13,1,Clinical cohort,https://pubmed.ncbi.nlm.nih.gov/40686054/,pubmed,40686054,1
+R220,ChatGPT,EN,13,1,Case report series,https://onlinelibrary.wiley.com/doi/10.1002/ccr3.5366,journal-site,,1
+R220,ChatGPT,EN,13,1,Comparative cohort,https://pubmed.ncbi.nlm.nih.gov/38358516/,pubmed,38358516,1
+R174,ChatGPT,EN,13,2,Severe-deformity study,https://link.springer.com/article/10.1186/s12891-024-07203-9,journal-site,,1
+R174,ChatGPT,EN,13,2,Flexion-contracture study,https://pubmed.ncbi.nlm.nih.gov/40686054/,pubmed,40686054,1
+R174,ChatGPT,EN,13,2,DDH comparative study,https://pubmed.ncbi.nlm.nih.gov/38358516/,pubmed,38358516,1
+R174,ChatGPT,EN,13,2,Retained-hardware case report,https://onlinelibrary.wiley.com/doi/10.1002/ccr3.5366,journal-site,,1
+R174,ChatGPT,EN,13,2,Hip-fusion conversion series,https://pmc.ncbi.nlm.nih.gov/articles/PMC7645377/,pmc,7645377,0
+R195,ChatGPT,EN,13,3,Comparative study,https://link.springer.com/article/10.1186/s12891-024-07203-9,journal-site,,1
+R195,ChatGPT,EN,13,3,Contracture study,https://pubmed.ncbi.nlm.nih.gov/40686054/,pubmed,40686054,1
+R195,ChatGPT,EN,13,3,DDH study,https://pubmed.ncbi.nlm.nih.gov/38358516/,pubmed,38358516,1
+R195,ChatGPT,EN,13,3,Retained-hardware report,https://pmc.ncbi.nlm.nih.gov/articles/PMC8842451/,pmc,8842451,1
+R195,ChatGPT,EN,13,3,Fused-hip series,https://pmc.ncbi.nlm.nih.gov/articles/PMC9245539/,pmc,9245539,0
+R231,ChatGPT,EN,14,1,thoracolumbar robotic-surgery guideline,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R231,ChatGPT,EN,14,1,Risk-factor study,https://www.nature.com/articles/s41598-019-40057-z,journal-site,,0
+R231,ChatGPT,EN,14,1,Revision-surgery report,https://www.ijssurgery.com/content/ijss/early/2022/06/14/8272.full.pdf,other,,0
+R062,ChatGPT,EN,14,2,Thoracolumbar robotic instrumentation guideline,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R062,ChatGPT,EN,14,2,Surgical technique report,https://pmc.ncbi.nlm.nih.gov/articles/PMC7478327/,pmc,7478327,0
+R062,ChatGPT,EN,14,2,Navigation troubleshooting guidance,https://pmc.ncbi.nlm.nih.gov/articles/PMC8532537/,pmc,8532537,0
+R011,ChatGPT,EN,14,3,High-grade slip series,https://pmc.ncbi.nlm.nih.gov/articles/PMC12775634/,pmc,12775634,1
+R011,ChatGPT,EN,14,3,Thoracolumbar guideline,https://pmc.ncbi.nlm.nih.gov/articles/PMC6594520/,pmc,6594520,0
+R011,ChatGPT,EN,14,3,operative technique and limitations,https://pmc.ncbi.nlm.nih.gov/articles/PMC7478327/,pmc,7478327,0
+R047,ChatGPT,EN,15,1,Pelvic/acetabular guidance,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,0
+R047,ChatGPT,EN,15,1,sacroiliac trial,https://pubmed.ncbi.nlm.nih.gov/29067950/,pubmed,29067950,0
+R047,ChatGPT,EN,15,1,femoral neck comparative study,https://pubmed.ncbi.nlm.nih.gov/29786276/,pubmed,29786276,0
+R047,ChatGPT,EN,15,1,Procedural guidance,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,0
+R036,ChatGPT,EN,15,2,Randomized trial,https://pmc.ncbi.nlm.nih.gov/articles/PMC5678249/,pmc,5678249,1
+R036,ChatGPT,EN,15,2,Comparative clinical study,https://pmc.ncbi.nlm.nih.gov/articles/PMC6430447/,pmc,6430447,1
+R036,ChatGPT,EN,15,2,Combined open and robotic fixation study,https://bmcmusculoskeletdisord.biomedcentral.com/track/pdf/10.1186/s12891-022-05313-w,other,,1
+R129,ChatGPT,EN,15,3,Trial,https://pubmed.ncbi.nlm.nih.gov/29067950/,pubmed,29067950,1
+R129,ChatGPT,EN,15,3,Comparative study,https://pmc.ncbi.nlm.nih.gov/articles/PMC6430447/,pmc,6430447,1
+R129,ChatGPT,EN,15,3,Pelvic and acetabular guidance,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,1
+R129,ChatGPT,EN,15,3,Guidance,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,1
+R129,ChatGPT,EN,15,3,Indications and contraindications,https://onlinelibrary.wiley.com/doi/10.1111/os.12452,journal-site,,0
+R144,ChatGPT,EN,16,1,AO guidance on trochanteric fixation,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-femur/further-reading/complications-and-technical-failures-trochanteric-fractures,ao,,0
+R144,ChatGPT,EN,16,1,DGOU recommendations,https://pmc.ncbi.nlm.nih.gov/articles/PMC6130106/,pmc,6130106,1
+R144,ChatGPT,EN,16,1,AO guidance,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-femur/further-reading/complications-and-technical-failures-trochanteric-fractures,ao,,1
+R144,ChatGPT,EN,16,1,DGOU recommendations,https://pmc.ncbi.nlm.nih.gov/articles/PMC6130106/,pmc,6130106,0
+R189,ChatGPT,EN,16,2,WFNS fixation recommendations,https://wfns-spine.org/osteoporotic-vertebral-fractures-recommendations,guideline,,0
+R189,ChatGPT,EN,16,2,AO trochanteric fracture guidance,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-femur/further-reading/complications-and-technical-failures-trochanteric-fractures,ao,,0
+R189,ChatGPT,EN,16,2,AAOS hip fracture guideline,https://www.aaos.org/hipfxcpg,guideline,,0
+R189,ChatGPT,EN,16,2,NASS guideline,https://www.spine.org/Portals/0/assets/downloads/ResearchClinicalCare/Guidelines/Osteoporotic-Vertebral-Compression-Fractures.pdf,other,,0
+R189,ChatGPT,EN,16,2,Prospective safety study,https://pubmed.ncbi.nlm.nih.gov/26943258/,pubmed,26943258,0
+R006,ChatGPT,EN,16,3,WFNS recommendations,https://wfns-spine.org/osteoporotic-vertebral-fractures-recommendations,guideline,,1
+R006,ChatGPT,EN,16,3,AO Surgery Reference,https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/proximal-femur/further-reading/complications-and-technical-failures-trochanteric-fractures,ao,,1
+R006,ChatGPT,EN,16,3,AAOS guidance,https://orthoinfo.aaos.org/globalassets/pdfs/hip-fractures-cpg_pls.pdf,guideline,,1
+R006,ChatGPT,EN,16,3,Robotic screw-placement risk study,https://www.nature.com/articles/s41598-019-40057-z,journal-site,,0
+R006,ChatGPT,EN,16,3,Randomized trial follow-up,https://www.injuryjournal.com/article/S0020138323004084/pdf,other,,0
+R028,ChatGPT,EN,17,1,TKA workflow study,https://pmc.ncbi.nlm.nih.gov/articles/PMC6435632/,pmc,6435632,0
+R028,ChatGPT,EN,17,1,seven-axis platform study,https://pubmed.ncbi.nlm.nih.gov/37308901/,pubmed,37308901,0
+R028,ChatGPT,EN,17,1,Contemporary THA study,https://pubmed.ncbi.nlm.nih.gov/38578350/,pubmed,38578350,0
+R028,ChatGPT,EN,17,1,approach-specific study,https://pubmed.ncbi.nlm.nih.gov/42387874/,pubmed,42387874,0
+R028,ChatGPT,EN,17,1,Volume study,https://pmc.ncbi.nlm.nih.gov/articles/PMC11067002/,pmc,11067002,1
+R044,ChatGPT,EN,17,2,Seven-case TKA study,https://pmc.ncbi.nlm.nih.gov/articles/PMC6435632/,pmc,6435632,0
+R044,ChatGPT,EN,17,2,20-case TKA study,https://pubmed.ncbi.nlm.nih.gov/37308901/,pubmed,37308901,0
+R044,ChatGPT,EN,17,2,THA volume study,https://pmc.ncbi.nlm.nih.gov/articles/PMC11067002/,pmc,11067002,0
+R044,ChatGPT,EN,17,2,Arthroplasty expert consensus,https://pmc.ncbi.nlm.nih.gov/articles/PMC13471573/,pmc,13471573,0
+R033,ChatGPT,EN,17,3,TKA learning-curve study,https://www.sciencedirect.com/science/article/pii/S2001037024000989,journal-site,,0
+R033,ChatGPT,EN,17,3,THA randomized study,https://pubmed.ncbi.nlm.nih.gov/38689270/,pubmed,38689270,0
+R033,ChatGPT,EN,17,3,surgeon-volume study,https://pmc.ncbi.nlm.nih.gov/articles/PMC11067002/,pmc,11067002,0
+R173,ChatGPT,EN,18,1,AJRR study,https://doi.org/10.1097/CORR.0000000000002783,doi,10.1097/CORR.0000000000002783,1
+R173,ChatGPT,EN,18,1,UK registry study,https://www.bmj.com/content/394/bmj-2026-100691,journal-site,,1
+R173,ChatGPT,EN,18,1,UK hip registry study,https://pubmed.ncbi.nlm.nih.gov/42815970/,pubmed,42815970,1
+R173,ChatGPT,EN,18,1,Five-year randomized trial,https://pmc.ncbi.nlm.nih.gov/articles/PMC8153511/,pmc,8153511,1
+R173,ChatGPT,EN,18,1,UK registry study,https://www.bmj.com/content/394/bmj-2026-100691,journal-site,,1
+R173,ChatGPT,EN,18,1,Long-term randomized trial,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438149/,pmc,7438149,0
+R173,ChatGPT,EN,18,1,UKA trial,https://pmc.ncbi.nlm.nih.gov/articles/PMC8153511/,pmc,8153511,0
+R085,ChatGPT,EN,18,2,AJRR study,https://pmc.ncbi.nlm.nih.gov/articles/PMC10776156/,pmc,10776156,1
+R085,ChatGPT,EN,18,2,National Joint Registry study,https://pubmed.ncbi.nlm.nih.gov/42815981/,pubmed,42815981,1
+R085,ChatGPT,EN,18,2,Long-term trial,https://pmc.ncbi.nlm.nih.gov/articles/PMC7438149/,pmc,7438149,1
+R085,ChatGPT,EN,18,2,AJRR hip study,https://pubmed.ncbi.nlm.nih.gov/42233625/,pubmed,42233625,1
+R085,ChatGPT,EN,18,2,Registry comparison,https://pubmed.ncbi.nlm.nih.gov/42815981/,pubmed,42815981,1
+R085,ChatGPT,EN,18,2,RACER-Knee trial,https://pubmed.ncbi.nlm.nih.gov/42624811/,pubmed,42624811,0
+R056,ChatGPT,EN,18,3,Two-year study,https://pmc.ncbi.nlm.nih.gov/articles/PMC10776156/,pmc,10776156,1
+R056,ChatGPT,EN,18,3,five-year study,https://pubmed.ncbi.nlm.nih.gov/40139479/,pubmed,40139479,1
+R056,ChatGPT,EN,18,3,Registry study,https://www.bmj.com/content/394/bmj-2026-100691,journal-site,,1
+R056,ChatGPT,EN,18,3,Randomized trial,https://doi.org/10.1097/CORR.0000000000000916,doi,10.1097/CORR.0000000000000916,1
+R056,ChatGPT,EN,18,3,Registry study,https://www.bmj.com/content/394/bmj-2026-100709,journal-site,,1
+R056,ChatGPT,EN,18,3,Registry study,https://pubmed.ncbi.nlm.nih.gov/42233625/,pubmed,42233625,1
+R056,ChatGPT,EN,18,3,Hip outcomes study,https://pubmed.ncbi.nlm.nih.gov/40349870/,pubmed,40349870,0
+R218,ChatGPT,EN,19,1,Randomized trial,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R218,ChatGPT,EN,19,1,Comparative imaging study,https://journals.sagepub.com/doi/10.1177/2192568220908242,journal-site,,0
+R218,ChatGPT,EN,19,1,IAEA staff-protection guidance,https://www.iaea.org/sites/default/files/documents/rpop/poster-staff-radiation-protection.pdf,regulatory,,0
+R218,ChatGPT,EN,19,1,ICRP occupational guidance,https://www.icrp.org/publication.asp?id=ICRP+Publication+139,other,,0
+R218,ChatGPT,EN,19,1,IAEA occupational standards,https://www-pub.iaea.org/MTCD/Publications/PDF/P1881_web.pdf,regulatory,,0
+R193,ChatGPT,EN,19,2,Trial,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,1
+R193,ChatGPT,EN,19,2,Randomized study,https://doi.org/10.1097/BRS.0000000000003685,doi,10.1097/BRS.0000000000003685,1
+R193,ChatGPT,EN,19,2,IAEA staff-protection guidance,https://www.iaea.org/sites/default/files/documents/rpop/poster-staff-radiation-protection.pdf,regulatory,,0
+R193,ChatGPT,EN,19,2,ICRP Publication 139,https://journals.sagepub.com/doi/10.1177/0146645317750356,journal-site,,0
+R193,ChatGPT,EN,19,2,ICRP recommendations,https://journals.sagepub.com/doi/10.1177/0146645317750356,journal-site,,0
+R023,ChatGPT,EN,19,3,Randomized trial,https://pubmed.ncbi.nlm.nih.gov/30738398/,pubmed,30738398,0
+R023,ChatGPT,EN,19,3,CT-navigation study,https://pubmed.ncbi.nlm.nih.gov/26686604/,pubmed,26686604,0
+R023,ChatGPT,EN,19,3,low-dose trial,https://pubmed.ncbi.nlm.nih.gov/28735464/,pubmed,28735464,0
+R023,ChatGPT,EN,19,3,IAEA protection guidance,https://nucleus.iaea.org/sites/nss-oui/Published%20Chunks/m_60b8e698-4f59-4c24-809a-dfb819ac5050/c_8283d8be-32e8-44cc-83f7-90dcd6a96993__9_0.Html,regulatory,,0
+R023,ChatGPT,EN,19,3,IAEA worker guidance,https://www.iaea.org/sites/default/files/22/06/diagnostic-radiology-english.pdf,regulatory,,0
+R023,ChatGPT,EN,19,3,multi-site monitoring guidance,https://nucleus.iaea.org/sites/nss-oui/Published%20Chunks/m_60b8e698-4f59-4c24-809a-dfb819ac5050/c_69d5acbe-d922-49e7-a0eb-2798918c6302__9_0.Html,regulatory,,0
+R221,ChatGPT,EN,20,1,Study,https://pmc.ncbi.nlm.nih.gov/articles/PMC6226125/,pmc,6226125,1
+R221,ChatGPT,EN,20,1,Study,https://pubmed.ncbi.nlm.nih.gov/42071092/,pubmed,42071092,1
+R017,ChatGPT,EN,20,2,Economic model,https://pmc.ncbi.nlm.nih.gov/articles/PMC6226125/,pmc,6226125,0
+R017,ChatGPT,EN,20,2,Budget-impact study,https://link.springer.com/article/10.1007/s11701-026-03315-7,journal-site,,0
+R058,ChatGPT,EN,20,3,Menger economic analysis,https://pmc.ncbi.nlm.nih.gov/articles/PMC6226125/,pmc,6226125,0
+R058,ChatGPT,EN,20,3,Institutional analysis,https://www.mdpi.com/1648-9144/60/12/2112,journal-site,,0
+R058,ChatGPT,EN,20,3,Spanish model,https://link.springer.com/article/10.1007/s11701-026-03315-7,journal-site,,0

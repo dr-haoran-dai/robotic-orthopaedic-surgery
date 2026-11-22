@@ -1,0 +1,7 @@
+scenario,language,question_pairs,CG_positive_responses,DS_positive_responses,CG_positive_questions,DS_positive_questions,CG_only_discordant,DS_only_discordant,exact_p_unadjusted
+confirmed_only,Overall,20,0,7,0,6,0,6,0.03125
+confirmed_only,EN,20,0,3,0,3,0,3,0.25
+confirmed_only,ZH,20,0,4,0,4,0,4,0.125
+unresolved_positive_sensitivity,Overall,20,0,8,0,6,0,6,0.03125
+unresolved_positive_sensitivity,EN,20,0,3,0,3,0,3,0.25
+unresolved_positive_sensitivity,ZH,20,0,5,0,5,0,5,0.0625
